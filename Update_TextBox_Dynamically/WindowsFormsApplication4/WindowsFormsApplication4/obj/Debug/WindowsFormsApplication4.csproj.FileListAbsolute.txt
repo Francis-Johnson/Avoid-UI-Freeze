@@ -1,0 +1,19 @@
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\R I O D  L o g i c\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.SuggestedBindingRedirects.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Francis\Interviews\Shell-Global\Git_Repo\C#_Codes-20230718T160156Z-001\C#_Codes\Update_TextBox_Dynamically\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
